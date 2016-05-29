@@ -1,0 +1,99 @@
+Name	Category
+Kayne West 	Titan
+Lorne Michaels	Titan
+Mellody Hobson	Titan
+Tim Cook	Titan
+Elizabeth Holmes	Titan
+Charles Koch & David Koch	Titan
+Susan Wojcicki	Titan
+Chanda Kochhar	Titan
+Tony Fernandes	Titan
+Lee Daniels	Titan
+Reid Hoffman	Titan
+Kim Kardashian	Titan
+Janet Yellen	Titan
+Danny Meyer	Titan
+Lei Jun	Titan
+Bob Iger	Titan
+Satya Nadella	Titan
+Jorge Paulo Lemann	Titan
+Misty Copeland	Pioneer
+Scott Kelly (astronaut)	Pioneer
+Emmanuelle Charpentier & Jennifer Doudna	Pioneer
+Brian Chesky	Pioneer
+Jimmy Lai	Pioneer
+Emma Watson	Pioneer
+Vikram Patel	Pioneer
+Pardis Sabeti	Pioneer
+Reese Witherspoon	Pioneer
+Bryan Stevenson	Pioneer
+Chai Jing	Pioneer
+Magnus MacFarlane-Barrow	Pioneer
+Kira Orange Jones	Pioneer
+Aura Elena Farfan	Pioneer
+Martin Blaser	Pioneer
+Anita Sarkeesian	Pioneer
+Tom Catena	Pioneer
+Rudolph Tanzi	Pioneer
+Mustafa Hassan	Pioneer
+Laverne Cox	Pioneer
+Sarah Koenig	Pioneer
+Bradley Cooper	Artist
+Richard Linklater	Artist
+Chris Ofili	Artist
+Julianna Margulies	Artist
+Amy Schumer	Artist
+Alexander Wang (designer)	Artist
+Jill Soloway	Artist
+Chris Pratt	Artist
+Audra McDonald	Artist
+Tim McGraw	Artist
+Kevin Hart	Artist
+Chimamanda Ngozi Adichie	Artist
+Julianne Moore	Artist
+Christopher Nolan	Artist
+Marie Kondo	Artist
+John Oliver (comedian)	Artist
+Jorge Ramos (news anchor)	Leader
+Narendra Modi	Leader
+Angela Merkel	Leader
+Bob Corker	Leader
+Rula Ghani	Leader
+Muhammadu Buhari	Leader
+Alexis Tsipras	Leader
+Vladimir Putin	Leader
+Obiageli Ezekwesili	Leader
+Elizabeth Warren	Leader
+Haider al-Abadi	Leader
+Joko Widodo	Leader
+King Salman bin Abdulaziz Al Saud	Leader
+Xi Jinping	Leader
+Jeb bush	Leader
+Tom Frieden	Leader
+Samantha Power 	Leader
+Raul Castro	Leader
+Kim Jong Un	Leader
+Abubakar Shekau	Leader
+Benjamin Netenyahu	Leader
+Hillary Clinton	Leader
+Martin Dempsey	Leader
+Beji Caid Essebsi	Leader
+Adam Silver	Leader
+Lu Wei (politician)	Leader
+Marine Le Pen	Leader
+Barack Obama	Leader
+Mitch McConnell	Leader
+Mohammad Javad Zarif	Leader
+Joanne Liu	Leader
+Ruth Bader Ginsburg	Icon
+Taylor Swift	Icon
+Diane von Furstenberg	Icon
+Gabriel Medina	Icon
+Haruki Murakami	Icon
+Bjork	Icon
+Jerry Brown	Icon
+Abby Wambach	Icon
+Ina Garten	Icon
+Thomas Piketty	Icon
+Malala Yousafzai	Icon
+Pope Francis 	Icon
